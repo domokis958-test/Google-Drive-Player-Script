@@ -1,7 +1,7 @@
 <?php
 
 	define("base_url", "http://" . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI']);
-	define("googledrive_key", "AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw");
+	define("googledrive_key", "AIzaSyA6Fj-kqTZUIJfWKXRrnzLOiV5IhAsEkK8");
 
 	//Create folder if it doesn't already exist
 	if (!file_exists('cache')) {
